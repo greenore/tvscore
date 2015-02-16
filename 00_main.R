@@ -1,10 +1,10 @@
 #!/usr/bin/Rscript
-# Purpose:         Opencpu example
+# Purpose:         Opencpu tvexample
 # Date:            2015-02-16                     
-# Author:          tim.hagmann@baloise.ch
-# Machine:         X10004122 (Win 32)
-# Notes:           WINDOWS: In order for it to work, RTools() has to be installed
-# R Version:       R version 3.1.1 -- "Sock it to Me"
+# Author:          tim hagmann
+# Machine:         Ubuntu Server 14.04
+# Notes:           https://www.opencpu.org/posts/scoring-engine/
+# R Version:       R version 3.1.2 -- "Pumpkin Helmet"
 ################################################################################
 
 ## Download init File (with helper functions)
